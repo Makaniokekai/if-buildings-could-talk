@@ -1,10 +1,10 @@
 # IF BUILDINGS COULD TALK 2023
 
-- Project: Exposing Boundaries
-- Team: Julia M., Annie Z., Aiden K., Jacob K., Mihika A.
-- Year: Spring 2023
+- **Project:** The Bench
+- **Team:** Julia M., Annie Z., Aiden K., Jacob K., Mihika A.
+- **Year:** Spring 2023
 
-### Our Intervention
+### Intervention Narrative
 
 Our artistic intervention comprises a staggered bridge in the lawn of Columbia University’s Graduate School of Architecture, Avery Hall. The structure, built atop the stone bench on the edge of the lawn, is designed to draw attention to the issue of underutilized recreational spaces around New York City. Currently, the Avery lawn is fenced off from all four corners by thick bushes, and on its left side, the said bench. Through connecting the outside of the  to the inside, we propose the symbolic undoing of this access gap.
 
@@ -12,7 +12,7 @@ The issue of park access in New York City was brought to light during the ongoin
 
 Given this stark inequity, underutlizing perfectly usable green spaces like the Avery Hall lawn feels like a wasted privilege. Our intervention is a call to action for the Columbia community to acknowledge the issue and as well as a small step(s) towards amending it.  
 
-### Data Visualized
+### Cost Per Lawn Area for GSAPP Students
 
 <div class='modelo-wrapper'> <div style="width: 100%; padding-bottom: 56.25%; position:
     relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> <iframe src="
