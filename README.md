@@ -15,3 +15,10 @@ Given this stark inequity, underutlizing perfectly usable green spaces like the 
 ### Dollars per SF for GSAPP Students
 
 ![$/SF](/images/3D-MODEL-GIF.gif) 
+
+### Spatial Data Visualized
+
+<div class='modelo-wrapper'> <div style="width: 100%; padding-bottom: 56.25%; position:
+    relative"> <div style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> <iframe src="
+    https://app.modelo.io/embedded/1652901694497898496?viewport=false&autoplay=false&autorotate=false&hideTools=false&showBIM=false&showBBoxSize=false&showKooRender=false&showSettings=false&c_at0=1950.2833852304686&c_at1=832.2434181703796&c_at2=158.88894171850586&c_theta=5.497787143782138&c_phi=0.17453292519943295&c_dis=2975.3706149983905" style="width:100%;height:100%;" frameborder="0" mozallowfullscreen webkitallowfullscreen
+    allowfullscreen ></iframe> </div> </div> </div>
