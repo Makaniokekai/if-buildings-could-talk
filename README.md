@@ -1,8 +1,8 @@
 # IF BUILDINGS COULD TALK 2023
 
-Project: Exposing Boundaries
-Team: Julia M., Annie Z., Aiden K., Jacob K., Mihika A.
-Year: Spring 2023
+- Project: Exposing Boundaries
+- Team: Julia M., Annie Z., Aiden K., Jacob K., Mihika A.
+- Year: Spring 2023
 
 ### Our Intervention
 
