@@ -14,5 +14,4 @@ Given this stark inequity, underutlizing perfectly usable green spaces like the 
 
 ### Dollars per SF for GSAPP Students
 
-<div class="iframe-column"><iframe src="//images/3D-MODEL-GIF.gif" style="position:absolute;top:0;left:0;width:50%;height:50%;" frameborder="0"></iframe></div>  
-
+![$/SF](/images/3D-MODEL-GIF.gif) 
